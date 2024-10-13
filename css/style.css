@@ -1,9 +1,6 @@
-/*
-* Template Name: Scout
-* Template Author: Untree.co
-* Author URI: https://untree.co/
-* License: https://creativecommons.org/licenses/by/3.0/
-*/
+html {
+    overflow-x: hidden;
+}
 body {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.6;
@@ -11,6 +8,7 @@ body {
     overflow-x: hidden;
     font-size: 16px;
     color: #333;
+    overflow-x: hidden;
 }
 body:before {
     content: '';
